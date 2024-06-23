@@ -1,0 +1,7 @@
+results
+image
+*.lock
+*.pyc
+.python-version
+.venv
+poetry.lock
